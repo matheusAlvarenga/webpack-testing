@@ -1,0 +1,17 @@
+$text-color: green;
+$button-color: yellow;
+
+.bye-world-button {
+  background-color: $button-color;
+  color: $text-color;
+  font-size: 1.5rem;
+  padding: 1rem 2rem;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+.bye-world-text {
+  font-size: 1.5rem;
+  color: $text-color;
+}
