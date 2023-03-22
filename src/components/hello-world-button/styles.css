@@ -1,0 +1,14 @@
+.hello-world-button {
+  background-color: #000;
+  color: #fff;
+  font-size: 1.5rem;
+  padding: 1rem 2rem;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+.hello-world-text {
+  font-size: 1.5rem;
+  color: #000;
+}
