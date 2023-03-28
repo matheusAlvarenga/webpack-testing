@@ -7,7 +7,7 @@ module.exports = {
         path: path.resolve(__dirname, './dist'),
         publicPath: 'auto'
     },
-    mode: 'none',
+    mode: 'production',
     module: {
         rules: [
             {
