@@ -1,14 +1,15 @@
 import { HelloWorldButton } from './components/hello-world-button';
-import { ByeWorldButton } from './components/bye-world-button';
 import { addImage } from './add-image.js'
+import { Heading } from './components/heading';
+import _ from 'lodash'
 
 const helloWorldButton = new HelloWorldButton()
 helloWorldButton.render()
 
 addImage()
 
-const byeWorldButton = new ByeWorldButton()
-byeWorldButton.render()
+const heading = new Heading()
+heading.render(_.upperCase('Hello World'))
 
 if(process.env.NODE_ENV === 'production') {
   console.log('Production mode')
