@@ -8,11 +8,14 @@
 <h2 align="center">Basic Webpack Testing</h2>
   <p align="center">
     This repository is for testing purposes following a course. Focused in understand how webpack works and how to implement their plugins and loaders in a real world application. Here's some of the implemented functionalities:
-      - CSS and SaSS building and minifying
-      - HTML generation
-      - Assets control
-      - Production and Development configurations
-      - Eslint integration
+  </p>
+  <div>
+  <li>CSS and SaSS building and minifying</li>
+  <li>HTML generation</li>
+  <li>Assets control</li>
+  <li>Production and Development configurations</li>
+  <li>Eslint integration</li>
+  </div>
     <br />
     <br />
     <a href="https://www.udemy.com/course/webpack-from-beginner-to-advanced"><strong>Watch the course »</strong></a>
