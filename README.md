@@ -2,7 +2,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/matheusAlvarenga/webpack-testing">
-    <img src="docs/repo-logo.png" alt="Logo" width="160">
+    <img src="docs/repo-logo.jpg" alt="Logo" width="160">
   </a>
 
 <h2 align="center">Basic Webpack Testing</h2>
